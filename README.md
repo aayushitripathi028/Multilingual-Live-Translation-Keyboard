@@ -89,4 +89,4 @@ Full Product Requirements Document available in this repository.
 
 ## Author
 
-Your Name
+Aayushi
